@@ -1,0 +1,25 @@
+# /etc/fstab: static file system information
+#
+# <file system> <dir>  <type>    <options>          <dump> <pass>
+devpts   /dev/pts      devpts    defaults               0   0
+none     /dev/shm      tmpfs     nodev,nosuid,mode=1777 0   0
+
+# SHARED MEMORY
+/dev/shm     /tmp      none      rw,bind,nosuid,noexec  0   0
+
+# MEDIA
+/dev/cdrom	/media/cd  iso9660   ro,user,noauto,unhide  0   0
+/dev/dvd	/media/dvd iso9660   ro,user,noauto,unhide  0   0
+
+# LVM
+/dev/mapper/lvpool-lvhome /home  ext4      noatime,nosuid  0   1
+/dev/mapper/lvpool-lvroot /      ext4      noatime         0   1
+/dev/mapper/lvpool-lvswap swap   swap      defaults,nosuid 0   0
+/dev/mapper/lvpool-lvvar  /var   reiserfs  defaults,nosuid 0   1
+
+# BOOT
+UUID="24f22bed-5c4a-43d4-88d7-284498cb851f" /boot ext2 noatime 0 1
+
+# External - Storage
+UUID="ad408551-9ab3-4e3a-be58-a5b94c737683" /mnt/data ext4 user,exec,noatime 0 0
+
