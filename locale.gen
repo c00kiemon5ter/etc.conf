@@ -69,13 +69,14 @@
 #ar_TN ISO-8859-6  
 #ar_YE.UTF-8 UTF-8  
 #ar_YE ISO-8859-6  
-#az_AZ.UTF-8 UTF-8  
-#as_IN.UTF-8 UTF-8  
+#az_AZ UTF-8  
+#as_IN UTF-8  
 #ast_ES.UTF-8 UTF-8  
 #ast_ES ISO-8859-15  
 #be_BY.UTF-8 UTF-8  
 #be_BY CP1251  
 #be_BY@latin UTF-8  
+#bem_ZM UTF-8  
 #ber_DZ UTF-8  
 #ber_MA UTF-8  
 #bg_BG.UTF-8 UTF-8  
@@ -156,6 +157,7 @@ en_US.UTF-8 UTF-8
 en_US ISO-8859-1  
 #en_ZA.UTF-8 UTF-8  
 #en_ZA ISO-8859-1  
+#en_ZM UTF-8  
 #en_ZW.UTF-8 UTF-8  
 #en_ZW ISO-8859-1  
 #es_AR.UTF-8 UTF-8  
@@ -206,6 +208,7 @@ en_US ISO-8859-1
 #eu_ES ISO-8859-1  
 #eu_ES@euro ISO-8859-15  
 #fa_IR UTF-8  
+#ff_SN UTF-8  
 #fi_FI.UTF-8 UTF-8  
 #fi_FI ISO-8859-1  
 #fi_FI@euro ISO-8859-15  
@@ -291,10 +294,12 @@ en_US ISO-8859-1
 #kw_GB.UTF-8 UTF-8  
 #kw_GB ISO-8859-1  
 #ky_KG UTF-8  
+#lb_LU UTF-8  
 #lg_UG.UTF-8 UTF-8  
 #lg_UG ISO-8859-10  
 #li_BE UTF-8  
 #li_NL UTF-8  
+#lij_IT UTF-8  
 #lo_LA UTF-8  
 #lt_LT.UTF-8 UTF-8  
 #lt_LT ISO-8859-13  
@@ -303,6 +308,7 @@ en_US ISO-8859-1
 #mai_IN UTF-8  
 #mg_MG.UTF-8 UTF-8  
 #mg_MG ISO-8859-15  
+#mhr_RU UTF-8  
 #mi_NZ.UTF-8 UTF-8  
 #mi_NZ ISO-8859-13  
 #mk_MK.UTF-8 UTF-8  
@@ -338,6 +344,7 @@ en_US ISO-8859-1
 #om_KE.UTF-8 UTF-8  
 #om_KE ISO-8859-1  
 #or_IN UTF-8  
+#os_RU UTF-8  
 #pa_IN UTF-8  
 #pa_PK UTF-8  
 #pap_AN UTF-8  
@@ -390,6 +397,8 @@ en_US ISO-8859-1
 #sv_FI@euro ISO-8859-15  
 #sv_SE.UTF-8 UTF-8  
 #sv_SE ISO-8859-1  
+#sw_KE UTF-8  
+#sw_TZ UTF-8  
 #ta_IN UTF-8  
 #te_IN UTF-8  
 #tg_TJ.UTF-8 UTF-8  
@@ -408,8 +417,8 @@ en_US ISO-8859-1
 #tr_TR.UTF-8 UTF-8  
 #tr_TR ISO-8859-9  
 #ts_ZA UTF-8  
-#tt_RU.UTF-8 UTF-8  
-#tt_RU.UTF-8@iqtelif UTF-8  
+#tt_RU UTF-8  
+#tt_RU@iqtelif UTF-8  
 #ug_CN UTF-8  
 #uk_UA.UTF-8 UTF-8  
 #uk_UA KOI8-U  
@@ -422,12 +431,14 @@ en_US ISO-8859-1
 #wa_BE ISO-8859-1  
 #wa_BE@euro ISO-8859-15  
 #wa_BE.UTF-8 UTF-8  
+#wae_CH UTF-8  
 #wo_SN UTF-8  
 #xh_ZA.UTF-8 UTF-8  
 #xh_ZA ISO-8859-1  
 #yi_US.UTF-8 UTF-8  
 #yi_US CP1255  
 #yo_NG UTF-8  
+#yue_HK UTF-8  
 #zh_CN.GB18030 GB18030  
 #zh_CN.GBK GBK  
 #zh_CN.UTF-8 UTF-8  
