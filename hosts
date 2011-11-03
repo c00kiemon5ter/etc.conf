@@ -3,8 +3,8 @@
 #
 
 #<ip-address>	<hostname.domain.org>	<hostname>
-127.0.0.1		localhost.c00kiemon5ter.ath.cx localhost suicidemachine
-::1				localhost.c00kiemon5ter.ath.cx localhost suicidemachine
+127.0.0.1		localhost.c00kiemon5ter.0x.no localhost suicidemachine
+::1				localhost.c00kiemon5ter.0x.no localhost suicidemachine
 192.168.2.1		router
 
 # ad blockers
