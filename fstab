@@ -8,8 +8,8 @@ none     /dev/shm      tmpfs     nodev,nosuid,mode=1777 0 0
 /dev/shm     /tmp      none      noatime,rw,bind,nosuid,noexec  0 0
 
 # MEDIA
-/dev/cdrom	/media/cd  iso9660   ro,user,noauto,unhide  0 0
-/dev/dvd	/media/dvd iso9660   ro,user,noauto,unhide  0 0
+/dev/sr0	/media/cd  iso9660   ro,user,noauto,unhide  0 0
+/dev/sr0	/media/dvd iso9660   ro,user,noauto,unhide  0 0
 
 # LVM
 /dev/mapper/lvpool-lvhome /home  ext4      noatime,nosuid  0 1
