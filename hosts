@@ -3,8 +3,8 @@
 #
 
 #<ip-address>	<hostname.domain.org>	<hostname>
-127.0.0.1		localhost.c00kiemon5ter.0x.no localhost suicidemachine
-::1				localhost.c00kiemon5ter.0x.no localhost suicidemachine
+127.0.0.1		c00kiemon5ter.0x.no localhost.localdomain localhost suicidemachine
+::1		        c00kiemon5ter.0x.no localhost.localdomain localhost suicidemachine
 192.168.2.1		router
 
 # ad blockers
@@ -14939,3 +14939,4 @@
 127.0.0.2 zug.us.intellitxt.com
 127.0.0.2 zz.cqcounter.com
 127.0.0.2 zzz.clickbank.net
+
